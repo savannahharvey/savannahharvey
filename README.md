@@ -27,7 +27,7 @@ C++ | Flutter | Dart | React | JavaScript | Firebase | AWS | OpenGL | Python
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/savannah-harvey1/)  
 📊 GitHub Stats:  
-![Savannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavannahSammons&show_icons=true&theme=tokyonight)
+![Savannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahharvey&show_icons=true&theme=tokyonight)
 
 
 <!--
